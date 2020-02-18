@@ -56,10 +56,11 @@
 node -v <br/>
 npm -v <br/>
 npm install <br/>
-npm install -g typescript
-tsc -v
-tsc --init
-tsc nameFile.ts
+npm install -g typescript --> Install TypeScript.<br/>
+tsc -v <br/>
+tsc --init --> To create a "tsconfig.json" file.<br/>
+tsc nameFile.ts --> Compiling your code. <br/>
+node nameFile.js --> Run your code. <br/>
 
 
 
