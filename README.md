@@ -3,6 +3,8 @@
 ## Contents at a Glance.
 * [Documentations](#documentations)
 * [About](#about)
+* [Technologies that are used in this project](#technologies-that-are-used-in-this-project)
+* [Console Commands](#console-commands)
 * [Help](#help)
 * [License](#license)
 
